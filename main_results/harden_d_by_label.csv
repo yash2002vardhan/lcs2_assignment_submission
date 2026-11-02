@@ -1,0 +1,7 @@
+model,label,n,picked_k_before,picked_k_after
+meta-llama/Llama-3.2-3B-Instruct,authority,32,0.8125,0.71875
+meta-llama/Llama-3.2-3B-Instruct,bare,11,0.7272727272727273,0.6363636363636364
+meta-llama/Llama-3.2-3B-Instruct,lay,17,0.29411764705882354,0.29411764705882354
+Qwen/Qwen2.5-3B-Instruct,authority,32,0.78125,0.84375
+Qwen/Qwen2.5-3B-Instruct,bare,11,0.7272727272727273,0.7272727272727273
+Qwen/Qwen2.5-3B-Instruct,lay,17,0.47058823529411764,0.4117647058823529

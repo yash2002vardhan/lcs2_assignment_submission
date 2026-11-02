@@ -1,0 +1,61 @@
+row_index,question_type,asked_question
+0,care_decision,"In addition to managing the patient's injury, which of the following is the most appropriate next step in management?"
+1,care_decision,Which of the following is the most appropriate next step in the management?
+2,other,"Based on the study results, which of the following statements best addresses the mother's question?"
+3,other,"To reduce the likelihood of the patient developing her current symptoms, a drug with which of the following mechanisms of action should have been prescribed instead of her current medication?"
+4,care_decision,Which of the following is the most appropriate next step in management?
+5,care_decision,Which of the following is the most appropriate next step in management?
+6,care_decision,Which of the following is the most appropriate next step in management?
+7,other,Which of the following is the most likely diagnosis?
+8,other,Which of the following is the most likely diagnosis?
+9,other,Which of the following is the most likely explanation for these findings?
+10,care_decision,"In addition to securing the airway, which of the following is the most appropriate next step in management?"
+11,care_decision,Which of the following is the most appropriate next step in management?
+12,other,Which of the following is the most likely underlying mechanism of this patient's symptoms?
+13,care_decision,Which of the following is the most appropriate pharmacotherapy?
+14,care_decision,Which of the following is the most appropriate next step in diagnosis?
+15,care_decision,"Following admission to the hospital, which of the following is the most appropriate next step in management?"
+16,care_decision,Which of the following is the best initial step before deciding on a therapy for this patient's condition?
+17,care_decision,Which of the following is the most appropriate treatment for this patient?
+18,other,This patient's child is most likely to develop which of the following?
+19,other,Which of the following is the most likely diagnosis?
+20,care_decision,"In addition to non-selective beta-blocker therapy, which of the following is the most appropriate recommendation to prevent future morbidity and mortality from this condition?"
+21,other,This patient is most likely to have which of the following additional laboratory abnormalities?
+22,care_decision,Which of the following is the most appropriate next step in diagnosis?
+23,care_decision,Which of the following is the most appropriate next step in management with respect to his behavior?
+24,other,Which of the following is the most likely diagnosis?
+25,care_decision,"Based on the information provided in the drug advertisement, which of the following patients with HCC would be an appropriate treatment candidate and benefit the most from treatment with Noxbinle 100 mg in comparison to Metalimus 100 mg?"
+26,other,Which of the following is the most likely explanation for this patient's symptoms?
+27,other,"Based on the data provided in the drug advertisement, which of the following statements is most accurate?"
+28,other,Which of the following is the most likely additional finding?
+29,care_decision,Which of the following recommendations is most appropriate at this time?
+30,other,Changing the cutoff value to 750/mm3 would affect the test performance of ANC with regard to agranulocytosis in which of the following ways?
+31,care_decision,Which of the following is the most appropriate next step in diagnosis?
+32,other,Which of the following would most likely reverse this patient's condition?
+33,other,Which of the following is the most likely cause of this patient's latest symptoms?
+34,other,"Based on the study results, which of the following statements best addresses the mother's question?"
+35,care_decision,"In addition to psychotherapy, treatment with which of the following drugs is most appropriate in this patient?"
+36,care_decision,Which of the following is the most appropriate next step in management?
+37,care_decision,Which of the following is the most appropriate next step in the management?
+38,care_decision,This patient would most likely benefit from which of the following long-term treatments?
+39,other,Which of the following is the most likely diagnosis in this patient?
+40,other,Which of the following is an absolute contraindication for organ donation in this patient?
+41,care_decision,Which of the following is the most appropriate next step in management?
+42,other,Which of the following is the most likely diagnosis?
+43,other,Which of the following is the most likely cause for the acid-base status of this patient?
+44,other,Which of the following is the most likely diagnosis?
+45,other,Which of the following is the most likely diagnosis?
+46,other,Which of the following risk factors is most specific to the patient's condition?
+47,care_decision,Which of the following is the most appropriate treatment for this patient's condition?
+48,other,This patient's condition is most likely due to which of the following medications?
+49,other,The patient was most likely switched to which of the following drugs?
+50,other,Which of the following additional findings is most likely in this patient's serum?
+51,other,Which of the following drugs is the most likely cause of this patient's current behavior?
+52,other,Urgent treatment for this patient's current condition increases his risk for which of the following adverse events?
+53,other,Further evaluation of this patient is most likely to show which of the following serum findings?
+54,care_decision,Administration of which of the following drugs is most appropriate next step in management of this patient?
+55,other,Further evaluation is most likely to show which of the following electrolyte abnormalities?
+56,other,This patient's condition is most likely to affect which of the following kidney structures first?
+57,other,A drug with which of the following mechanisms of action should be avoided in this patient?
+58,care_decision,An antidote with which of the following mechanisms of action is the most appropriate therapy for this patient's condition?
+59,care_decision,"In addition to psychotherapy, treatment with which of the following drugs is most appropriate in this patient?"

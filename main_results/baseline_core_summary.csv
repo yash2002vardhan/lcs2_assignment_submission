@@ -1,0 +1,3 @@
+model,n,accuracy,parse_ok_rate,mean_confidence
+Qwen/Qwen2.5-3B-Instruct,200,0.315,1.0,84.4
+meta-llama/Llama-3.2-3B-Instruct,200,0.415,0.995,91.19095477386935

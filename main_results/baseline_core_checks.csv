@@ -1,0 +1,3 @@
+model,n,accuracy,ci_low,ci_high,n_valid_confidence,mean_conf_correct,mean_conf_wrong
+Qwen/Qwen2.5-3B-Instruct,200,0.315,0.25,0.38,200,84.762,84.234
+meta-llama/Llama-3.2-3B-Instruct,200,0.415,0.345,0.485,199,92.06,90.569

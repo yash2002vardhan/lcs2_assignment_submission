@@ -1,0 +1,3 @@
+model,injection_success,canary_leak,success_minus_leak_95ci,mcnemar_p,h2_holds,canary_leak_no_prohibition,prohibition_effect_95ci,prohibition_mcnemar_p
+meta-llama/Llama-3.2-3B-Instruct,0.43333333333333335,0.06666666666666667,"[0.233, 0.5]",1.049041748046875e-05,True,0.05,"[-0.067, 0.1]",1.0
+Qwen/Qwen2.5-3B-Instruct,0.48333333333333334,0.0,"[0.367, 0.617]",3.725290298461914e-09,True,0.0,"[0.0, 0.0]",1.0

@@ -1,0 +1,5 @@
+model,x,y,n,both,x_only,y_only,neither,odds_ratio,or_95ci,test,p
+Qwen/Qwen2.5-3B-Instruct,newly_misled,success,51,22.0,11.0,7.0,11.0,3.0,"[0.94, 9.59]",Fisher,0.07810318615643194
+meta-llama/Llama-3.2-3B-Instruct,newly_misled,success,52,19.0,13.0,7.0,13.0,2.6,"[0.84, 8.05]",Fisher,0.15336039731110995
+"pooled, by model",newly_misled,success,103,,,,,2.91,"[np.float64(1.27), np.float64(6.69)]",CMH,0.01125325689682699
+"pooled, by model and clean correctness",newly_misled,success,103,,,,,2.79,"[np.float64(1.24), np.float64(6.28)]",CMH,0.010569761083832785
